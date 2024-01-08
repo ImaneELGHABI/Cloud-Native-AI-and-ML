@@ -1,0 +1,15 @@
+artifact_uri: file:///home/omomani/Desktop/i/new_year/azure/Atelier%206%20microservices%20API%20ACI%20ACS%20Heroku%20%283%29/Dossier%20Atelier%20microservices%20API%20ACI%20ACS%20Heroku/Azure%20MLflow%20Deploy/mlruns/1/5cd6e1b63d524ee8a8dd4db1e5bf210e/artifacts
+end_time: 1704580207184
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 5cd6e1b63d524ee8a8dd4db1e5bf210e
+run_uuid: 5cd6e1b63d524ee8a8dd4db1e5bf210e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704580202829
+status: 3
+tags: []
+user_id: omomani
