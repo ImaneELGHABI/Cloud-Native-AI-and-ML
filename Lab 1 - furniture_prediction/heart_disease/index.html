@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="UTF-8">
+   <title>Heart Disease Prediction</title>
+   <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+   <style type="text/css" id="operaUserStyle"></style>
+</head>
+
+<body>
+   <div id="wrap">
+      <h1>Predict Heart Disease</h1>
+
+      <section id="furn" class="frame2">
+         <div class="login">
+            <form action="{{ url_for('predict')}}" method="post">
+               <table class="entryForm">
+                  <tbody>
+                     <tr>
+                        <th>Age:</th>
+                        <td><input type="number" name="age" required></td>
+                     </tr>
+                     <tr>
+                        <th>Sex (0 for female, 1 for male):</th>
+                        <td><input type="number" name="gender" required></td>
+                     </tr>
+                     <tr>
+                        <th>Chest pain type:</th>
+                        <td><input type="number" name="chest_pain_type" required></td>
+                     </tr>
+                     <tr>
+                        <th>BP:</th>
+                        <td><input type="number" name="blood_pressure" required></td>
+                     </tr>
+                     <tr>
+                        <th>Cholesterol:</th>
+                        <td><input type="number" name="cholesterol" required></td>
+                     </tr>
+                     <tr>
+                        <th>FBS over 120:</th>
+                        <td><input type="number" name="fbs_over_120" required></td>
+                     </tr>
+                     <tr>
+                        <th>EKG results:</th>
+                        <td><input type="number" name="ekg_results" required></td>
+                     </tr>
+                     <tr>
+                        <th>Max HR:</th>
+                        <td><input type="number" name="max_hr" required></td>
+                     </tr>
+                     <tr>
+                        <th>Exercise angina:</th>
+                        <td><input type="number" name="exercise_angina" required></td>
+                     </tr>
+                     <tr>
+                        <th>ST depression:</th>
+                        <td><input type="number" name="st_depression" required></td>
+                     </tr>
+                     <tr>
+                        <th>Slope of ST:</th>
+                        <td><input type="number" name="slope_of_st" required></td>
+                     </tr>
+                     <tr>
+                        <th>Number of vessels fluro:</th>
+                        <td><input type="number" name="num_vessels_fluro" required></td>
+                     </tr>
+                     <tr>
+                        <th>Thallium:</th>
+                        <td><input type="number" name="thallium" required></td>
+                     </tr>
+                  </tbody>
+               </table>
+               <div class="btns">
+                  <button type="reset" class="btn btn-clear">Reset</button>
+                  <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+               </div>
+            </form>
+         </div>
+      </section>
+      <br>
+      <br>
+      {{prediction_text}}
+   </div>
+</body>
+</html>
