@@ -1,12 +1,8 @@
-Based on the information from the document "MLOps - Amazon SageMaker," here is a detailed `README.md` file for your SageMaker Lab, including the URLs for the provided images:
+
 
 ---
 
 # SageMaker Lab: ML with Amazon SageMaker
-
-**Professor:** Fahd KALLOUBI  
-**Year:** 2023/2024  
-**Major:** QFM – Data Engineering
 
 ## Overview
 
@@ -60,10 +56,3 @@ In this lab, we will explore Amazon SageMaker, a powerful cloud-native tool for 
 2. ![Model Deployment](https://cdn.discordapp.com/attachments/1191490101247758479/1193715179360358520/image.png)
 3. ![Endpoint Creation](https://cdn.discordapp.com/attachments/1191490101247758479/1193715179632992296/image.png)
 
-## Additional Tasks
-- Explore advanced model training techniques such as hyperparameter tuning.
-- Create and configure additional notebooks for different model training experiments.
-
----
-
-*Note: Replace the image URLs with the actual images if they are available locally in your repository.*
