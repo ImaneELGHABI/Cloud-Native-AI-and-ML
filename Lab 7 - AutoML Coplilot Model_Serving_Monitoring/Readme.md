@@ -33,8 +33,6 @@ This project demonstrates the deployment of a machine learning model as a servic
    - **Screenshot 9**: Script execution and predictions.
      ![Script Execution](https://cdn.discordapp.com/attachments/1191490101247758479/1193683277136015421/Screenshot_20240108_000712.png)
 
-5. **Web Application and Container Deployment**
-   - **Screenshot 10 & 11**: (Include screenshots of the developed web application form and the container deployment, if available.)
 
 #### Files in the Repository
 
@@ -48,9 +46,5 @@ This project demonstrates the deployment of a machine learning model as a servic
 - Run `app.py` to start the Flask application.
 - Access the web application at the local host address provided.
 
-#### Note
-
-- Replace placeholder values in scripts with actual data from your Azure setup.
-- For detailed steps or troubleshooting, refer to Azure AutoML documentation or the provided PDF.
 
 ---
