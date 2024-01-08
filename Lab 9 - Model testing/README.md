@@ -27,7 +27,8 @@ For the Jupyter notebook, ensure you have Jupyter Lab or Notebook installed and 
 - Screenshot 1: ![View Screenshot](https://cdn.discordapp.com/attachments/1191490101247758479/1193692594161582130/image.png)
 - Screenshot 2: ![View Screenshot](https://cdn.discordapp.com/attachments/1191490101247758479/1193732911137050634/Screenshot_from_2024-01-08_02-46-03.png)
 - Screenshot 3: ![View Screenshot](https://cdn.discordapp.com/attachments/1191490101247758479/1193733299143725146/Screenshot_from_2024-01-08_02-49-31.png)
-- Screenshot 4: ![View Screenshot](https://cdn.discordapp.com/attachments/1191490101247758479/1193854606975971388/Screenshot_from_2024-01-08_10-50-22.png)
+
+
 
 
 
