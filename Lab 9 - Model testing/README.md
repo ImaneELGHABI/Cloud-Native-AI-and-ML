@@ -29,14 +29,7 @@ For the Jupyter notebook, ensure you have Jupyter Lab or Notebook installed and 
 - Screenshot 3: ![View Screenshot](https://cdn.discordapp.com/attachments/1191490101247758479/1193733299143725146/Screenshot_from_2024-01-08_02-49-31.png)
 - Screenshot 4: ![View Screenshot](https://cdn.discordapp.com/attachments/1191490101247758479/1193854606975971388/Screenshot_from_2024-01-08_10-50-22.png)
 
-## Contributing
-Contributions to this lab are welcome! Please send pull requests or report issues through the repository's issue tracker.
 
-## License
-This project is released under the MIT License.
-
-## Acknowledgements
-Special thanks to all contributors and supporters of this lab.
 
 ## Performance Metrics of FastAPI Service
 
